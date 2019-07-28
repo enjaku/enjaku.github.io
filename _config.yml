@@ -110,7 +110,7 @@ author:
   name             : "Eric Stewart"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
-  location         : Chicago, IL
+  location         : "Chicago, IL"
   email            : "so.enjaku@gmail.com"
   links:
     - label: "Email"
