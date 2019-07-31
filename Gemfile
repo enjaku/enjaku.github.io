@@ -4,6 +4,5 @@ gem "jekyll-include-cache"
 
 gemspec
 
-gem "jekyll", ENV[3.8.6] if ENV[3.8.6]
+gem "jekyll", ENV[3.8] if ENV[3.8]
 
-gem 'github-pages', group: :jekyll_plugins
