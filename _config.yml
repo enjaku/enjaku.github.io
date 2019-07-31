@@ -111,7 +111,7 @@ author:
   avatar           : "/images/2015-06-04 _SV Tortuga_ 1056_Headshot.jpg"
   bio              : "Data Science Portfolio"
   location         : "Chicago, IL"
-  email            : "so.enjaku@gmail.com"
+  email            : #"so.enjaku@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
