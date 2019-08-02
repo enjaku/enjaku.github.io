@@ -121,7 +121,7 @@ author:
       url: "https://svtortuga.com/"
       label: "Resume"
       icon: "far fa-file"
-      url: "/CV/'Eric Stewart CV.pdf'"
+      url: "/CV/Eric_Stewart_CV.pdf"
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/eric-stewart-ma-mba-309ba8b5/"
