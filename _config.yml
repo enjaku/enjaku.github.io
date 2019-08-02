@@ -116,12 +116,12 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:so.enjaku@gmail.com
-    - label: "Website"
+    - label: "Personal Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://svtortuga.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/soenjaku"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -130,7 +130,7 @@ author:
       url: "https://github.com/enjaku"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/tortuga.chicago/?hl=en"
 
 # Site Footer
 footer:
