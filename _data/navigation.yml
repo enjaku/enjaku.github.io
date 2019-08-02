@@ -4,8 +4,8 @@ main:
     url: /about
   - title: "Projects"
     url: /projects
-  - title:  "Resume"
-    url:  /CV/"Eric Stewart CV.pdf"
+  #- title:  "Resume"
+   # url:  /CV/"Eric Stewart CV.pdf"
 
 
 
